@@ -39,3 +39,9 @@ Similarly, I have worked on many programming projects which have increased my kn
   </a>
   
 </div>
+
+
+<div id="badges" align="center">
+ <img src="https://komarev.com/ghpvc/?username=samishakoor&style=flat-square&color=blue" alt=""/>
+</div>
+

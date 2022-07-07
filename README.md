@@ -68,6 +68,17 @@ Similarly, I have worked on many programming projects which have increased my kn
 -   Snakes and Ladder Game (Digital Logic & Design)
 -   Bluetooth Controlled Robot Car using Arduino 
 
+
+---
+
+### :medal_sports: My Achievements :
+
+-   Participated in Bug Catcher Competition held at National Solutions Convention (NaSCon’22) at FAST-NU, Islamabad.
+-   Participated in Arduino Robotics Workshop organized by IEEE Society at FAST-NU, Lahore.
+
+
+
+
 ---
 
 ### :fire: My Stats :

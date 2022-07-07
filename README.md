@@ -62,12 +62,13 @@ I am passionate about my work and I know how to get the job done in an effective
 ### :fire: My Projects :
 
 Similarly, I have worked on many programming projects which have increased my knowledge to solve different industry competitive problems during my tenure. Some of my projects are:
--📍MineSweeper Game in C++ (Object Oriented Programming)
--Candy Crush Game in C++ (Programming Fundamentals )
--Console Based Facebook Project in C++ (Object Oriented Programming)
--Bubble Popping Game (Assembly Language)
--Snakes and Ladder Game (Digital Logic & Design)
--Bluetooth Controlled Robot Car using Arduino 
+
+-   MineSweeper Game in C++ (Object Oriented Programming)
+-   Candy Crush Game in C++ (Programming Fundamentals )
+-   Console Based Facebook Project in C++ (Object Oriented Programming)
+-   Bubble Popping Game (Assembly Language)
+-   Snakes and Ladder Game (Digital Logic & Design)
+-   Bluetooth Controlled Robot Car using Arduino 
 
 
 

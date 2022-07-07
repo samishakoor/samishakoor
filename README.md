@@ -43,9 +43,9 @@ I am currently an undergraduate Computer Science student . I am also an entrepre
 
 I am passionate about my work and I know how to get the job done in an effective manner. During my university tenure , I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  
 
-- :📌 Front-End Developer at a Beginner Level
-- :📌 Project Based C/C++/C# Programming
-- :📌 Game Developer at a Beginner level
+-  Front-End Developer at a Beginner Level
+-  Project Based C/C++/C# Programming
+-  Game Developer at a Beginner level
 
 
 

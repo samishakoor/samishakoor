@@ -30,6 +30,25 @@
 ### :man_technologist: About Me :
 
 
+
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
+
+
+
+
+
+
+
+
 I am currently an undergraduate Computer Science student . I am also an entrepreneur, logic maker, and self motivated individual with a clear vision to make my world better place in the universe of Information Technology. I work hard towards achieving my goals and also love being part of the community .
 
 I am creative in my ways to solve any task in the given time period. I always looking to work in a dynamic and professional environment so that I can develop the potential to enhance my skills in IT world. I am a hard-working and driven individual who isn’t afraid to face a challenge. I’m a competent communicator as well to deal my audience single handedly . I like to think of myself as a team player. I have great leadership skills and prioritize team work instead of solo learning.

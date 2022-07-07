@@ -66,7 +66,7 @@ I am passionate about my work and I know how to get the job done in an effective
 
 ### :fire: My Stats :
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sami Shakoor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

@@ -3,7 +3,7 @@
 </h1>
  
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
+  <img src="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx" width="100"/>
 </div>
 
 <div id="badges" align="center">

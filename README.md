@@ -3,8 +3,9 @@
 </h1>
  
  <div id="header" align="center">
-  <img src="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx" width="100"/>
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
 </div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/msamishakoor/">

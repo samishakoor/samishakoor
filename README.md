@@ -1,3 +1,7 @@
+ <h1 align="center">
+ Hi there 👋, I'm Sami   
+</h1>
+ 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="100"/>
 </div>
@@ -20,9 +24,7 @@
  <img src="https://komarev.com/ghpvc/?username=samishakoor&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  ### Hi there 👋, I'm Sami   
-</h1>
+
 
 
 

@@ -35,9 +35,9 @@ I am passionate about my work and I know how to get the job done in an effective
 </p>
 
 
--   Front-End Developer at a Beginner Level
+-   Front-End Development
 -   Project Based C/C++/C# Programming
--   Game Developer at a Beginner level
+-   Game Developement
 
 
 ---

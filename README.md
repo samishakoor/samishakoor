@@ -42,11 +42,6 @@ I am passionate about my work and I know how to get the job done in an effective
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-
-
-
-
-
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -64,21 +59,15 @@ I am passionate about my work and I know how to get the job done in an effective
 
 ---
 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sami Shakoor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+### :fire: My Projects :
 
 Similarly, I have worked on many programming projects which have increased my knowledge to solve different industry competitive problems during my tenure. Some of my projects are:
-
-📍MineSweeper Game in C++ (Object Oriented Programming)
-📍Candy Crush Game in C++ (Programming Fundamentals )
-📍Console Based Facebook Project in C++ (Object Oriented Programming)
-📍Bubble Popping Game (Assembly Language)
-📍Snakes and Ladder Game (Digital Logic & Design)
-📍Bluetooth Controlled Robot Car using Arduino 
+-📍MineSweeper Game in C++ (Object Oriented Programming)
+-Candy Crush Game in C++ (Programming Fundamentals )
+-Console Based Facebook Project in C++ (Object Oriented Programming)
+-Bubble Popping Game (Assembly Language)
+-Snakes and Ladder Game (Digital Logic & Design)
+-Bluetooth Controlled Robot Car using Arduino 
 
 
 

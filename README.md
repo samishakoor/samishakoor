@@ -23,6 +23,7 @@
  <img src="https://komarev.com/ghpvc/?username=samishakoor&style=flat-square&color=blue" alt=""/>
 </div>
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 ---
 ### :man_technologist: About Me :

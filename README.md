@@ -2,7 +2,7 @@
  Hi there 👋, I'm Sami   
 </h1>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" width="200"/>
 </div>
 
 

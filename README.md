@@ -9,18 +9,18 @@ As I am an entrepreneur so I like to find newer and creative ways to develop thi
 
 I am passionate about my work and I know how to get the job done in an effective manner. During my university tenure , I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  
 
-*Front-End Developer at a Beginner Level
-*Project Based C/C++/C# Programming.
-*Game Developer at a Beginner level.
+📌 Front-End Developer at a Beginner Level
+📌 Project Based C/C++/C# Programming.
+📌 Game Developer at a Beginner level.
 
 Similarly, I have worked on many programming projects which have increased my knowledge to solve different industry competitive problems during my tenure. Some of my projects are:
 
-•	MineSweeper Game in C++ (Object Oriented Programming)
-•	Candy Crush Game in C++ (Programming Fundamentals )
-Console Based Facebook Project in C++ (Object Oriented Programming)
-•	Bubble Popping Game (Assembly Language)
-•	Snakes and Ladder Game (Digital Logic & Design)
-•	Bluetooth Controlled Robot Car using Arduino 
+📍MineSweeper Game in C++ (Object Oriented Programming)
+📍Candy Crush Game in C++ (Programming Fundamentals )
+📍Console Based Facebook Project in C++ (Object Oriented Programming)
+📍Bubble Popping Game (Assembly Language)
+📍Snakes and Ladder Game (Digital Logic & Design)
+📍Bluetooth Controlled Robot Car using Arduino 
 
 
 <div id="header" align="center">

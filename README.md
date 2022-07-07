@@ -26,7 +26,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am currently an undergraduate Computer Science student . I am also an entrepreneur, logic maker, and self motivated individual with a clear vision to make my world better place in the universe of Information Technology. I work hard towards achieving my goals and also love being part of the community .I always looking to work in a dynamic and professional environment so that I can develop the potential to enhance my skills in IT world. I am a hard-working and driven individual who isn’t afraid to face a challenge.
+I am currently an undergraduate 'Computer Science' student . I am also an entrepreneur, logic builder, and self motivated individual with a clear vision to make my world better place in the universe of Information Technology. I work hard towards achieving my goals and also love being part of the community .I always looking to work in a dynamic and professional environment so that I can develop the potential to enhance my skills in IT world. I am a hard-working and driven individual who isn’t afraid to face a challenge.
 
 <p>
 I am passionate about my work and I know how to get the job done in an effective manner. During my university tenure , I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  

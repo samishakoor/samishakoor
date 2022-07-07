@@ -25,9 +25,9 @@
 </div>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100" height="100"/>
-</div>
+---
+
+### :man_technologist: About Me :
 
 
 I am currently an undergraduate Computer Science student . I am also an entrepreneur, logic maker, and self motivated individual with a clear vision to make my world better place in the universe of Information Technology. I work hard towards achieving my goals and also love being part of the community .

@@ -1,11 +1,9 @@
- <h4 align="center">
+ <h1 align="center">
  Hi there 👋, I'm Sami   
-</h4>
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
+</h1>
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200"/>
 </div>
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/msamishakoor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,9 +14,7 @@
   <a href="https://web.facebook.com/sami.shakoor.5">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  
 </div>
-
 
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=samishakoor&style=flat-square&color=blue" alt=""/>

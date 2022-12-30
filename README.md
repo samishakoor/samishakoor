@@ -65,7 +65,7 @@ I have worked on many programming projects which have increased my knowledge to 
 -   3D Coin Collector Game in Unity
 -   Hostel Ad Posting Website in ASP.NET
 -   Outcome Based Education System in Java
--   Candy Crush Game in C++ using SFML Graphics(Programming Fundamentals )
+-   Candy Crush Game in C++ using SFML Graphics (Programming Fundamentals )
 -   Social Network Application in C++ (Object Oriented Programming)
 -   Bubble Popping Game (Assembly Language)
 -   Snakes and Ladder Game (Digital Logic & Design)

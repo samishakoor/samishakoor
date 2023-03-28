@@ -26,16 +26,17 @@
 ---
 ### :man_technologist: About Me :
 
-I am currently an undergraduate 'Computer Science' student . I am also an entrepreneur, logic builder, and self motivated individual with a clear vision to make my world better place in the universe of Information Technology. I work hard towards achieving my goals and also love being part of the community. I am always looking to work in a dynamic and professional environment so that I can develop the potential to enhance my skills in IT world. I am a hard-working and driven individual who isn’t afraid to face a challenge.
+I am currently an undergraduate 'Computer Science' student . I am also an entrepreneur, logic builder, and self motivated individual with a clear vision to make my world better place in the universe of Information Technology. I work hard towards achieving my goals and also love being part of the community. I am always looking to work in a dynamic and professional environment so that I can develop the potential to enhance my skills in IT world. I am a hard-working and self-driven individual who isn’t afraid to face a challenge and i am always ready to learn new languages to broaden my skillset.
 
 <p>
 I am passionate about my work and I know how to get the job done in an effective manner. During my university tenure , I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  
 </p>
 
 -   Front-End Development
--   Project Based Programming in C++/Java
+-   Android Development in Java
+-   C/C++/Java/Python/C# Programming
 -   Game Developement in Unity
--   Web Development using Ruby on Rails
+-   Ruby on Rails
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -62,11 +63,13 @@ I am passionate about my work and I know how to get the job done in an effective
 I have worked on many programming projects which have increased my knowledge to solve different industry competitive problems during my tenure. Some of my projects are:
 
 -   MineSweeper Game in C++ (Object Oriented Programming)
+-   Online Voting System in C
+-   Instagram Clone using Ruby on Rails
 -   3D Coin Collector Game in Unity
 -   Hostel Ad Posting Website in ASP.NET
 -   Outcome Based Education System in Java
 -   Candy Crush Game in C++ using SFML Graphics (Programming Fundamentals )
--   Social Network Application in C++ (Object Oriented Programming)
+-   Facebook Clone Application in C++ (Object Oriented Programming)
 -   Bubble Popping Game (Assembly Language)
 -   Snakes and Ladder Game (Digital Logic & Design)
 -   Bluetooth Controlled Robot Car using Arduino 
@@ -77,6 +80,7 @@ I have worked on many programming projects which have increased my knowledge to 
 ### :medal_sports: My Achievements :
 
 -   Participated in Bug Catcher Competition held at National Solutions Convention (NaSCon’22) at FAST-NU, Islamabad.
+-   Wxceptional Logistics Volunteer of Softec'22.
 -   Participated in Arduino Robotics Workshop organized by IEEE Society at FAST-NU, Lahore.
 
 

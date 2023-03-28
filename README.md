@@ -79,8 +79,9 @@ I have worked on many programming projects which have increased my knowledge to 
 
 ### :medal_sports: My Achievements :
 
+-   Teacher Assistant of "Data Structures" Course
 -   Participated in Bug Catcher Competition held at National Solutions Convention (NaSCon’22) at FAST-NU, Islamabad.
--   Wxceptional Logistics Volunteer of Softec'22.
+-   Exceptional Logistics Volunteer of Softec'22.
 -   Participated in Arduino Robotics Workshop organized by IEEE Society at FAST-NU, Lahore.
 
 

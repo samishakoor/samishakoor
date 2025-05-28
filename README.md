@@ -32,7 +32,7 @@ I am passionate about my work and I know how to get the job done in an effective
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div>
  
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>

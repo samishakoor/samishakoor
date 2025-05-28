@@ -1,5 +1,5 @@
  <h1 align="center">
- Hi there 👋, I'm Sami - a passionate Software Engineer   
+ Hi there 👋, I'm Muhammad Sami Shakoor 
 </h1>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" width="200"/>

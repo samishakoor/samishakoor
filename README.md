@@ -1,5 +1,5 @@
  <h1 align="center">
- Hi there 👋, I'm Sami   
+ Hi there 👋, I'm Sami - a passionate Software Engineer   
 </h1>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" width="200"/>
@@ -29,7 +29,7 @@
 Hi there! I’m Sami Shakoor, a solution-oriented software engineer with a strong passion for building scalable, high-performance applications. My goal is to design solutions that address real-world real-world problems while keeping code maintainable and scalable. With over 1+ years of experience in backend development, I deliver scalable APIs and cloud infrastructures designed to evolve with businesses. I believe in the power of collaboration and am always eager to work alongside talented teams to turn innovative ideas into reality. I'm always passionate about changing the world with technology, solve complex challenges, and stay ahead of the curve with emerging technologies.
 
 <p>
-I am passionate about my work and I know how to get the job done in an effective manner. During my university tenure , I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  
+I am passionate about my work and I know how to get the job done in an effective manner. I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  
 </p>
 
 -   Front-End Development

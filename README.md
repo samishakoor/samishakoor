@@ -58,35 +58,6 @@ I am passionate about my work and I know how to get the job done in an effective
 
 </div>
 
-
----
-
-### :fire: My Projects :
-I have worked on many programming projects which have increased my knowledge to solve different industry competitive problems during my tenure. Some of my projects are:
-
--   MineSweeper Game in C++ (Object Oriented Programming)
--   Online Voting System in C
--   Instagram Clone using Ruby on Rails
--   3D Coin Collector Game in Unity
--   Hostel Ad Posting Website in ASP.NET
--   Outcome Based Education System in Java
--   Candy Crush Game in C++ using SFML Graphics (Programming Fundamentals )
--   Facebook Clone Application in C++ (Object Oriented Programming)
--   Bubble Popping Game (Assembly Language)
--   Snakes and Ladder Game (Digital Logic & Design)
--   Bluetooth Controlled Robot Car using Arduino 
-
-
----
-
-### :medal_sports: My Achievements :
-
--   Teacher Assistant of "Data Structures" Course
--   Participated in Bug Catcher Competition held at National Solutions Convention (NaSCon’22) at FAST-NU, Islamabad.
--   Exceptional Logistics Volunteer of Softec'22.
--   Participated in Arduino Robotics Workshop organized by IEEE Society at FAST-NU, Lahore.
-
-
 ---
 
 ### :dart: My Stats :

@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.samishakoor.me/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 </p>

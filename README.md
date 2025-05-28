@@ -32,11 +32,10 @@ Hi there! I’m Sami Shakoor, a solution-oriented software engineer with a stron
 I am passionate about my work and I know how to get the job done in an effective manner. I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  
 </p>
 
--   Front-End Development
--   Android Development in Java
--   C/C++/Java/Python/C# Programming
--   Game Developement in Unity
--   Ruby on Rails
+-   Frontend Development: React, Redux, Zustand, Tailwind, Material-UI, Flutter
+-   Backend Development: Node.js, Express.js, Nest.js, Flask, GraphQL, REST
+-   Databases: PostgreSQL, MySQL, DynamoDB, MongoDB, Firebase, Supabase
+-   Cloud & DevOps: AWS (Lambda, API Gateway, AppSync, S3, CloudWatch, SQS, Amplify), GCP, Docker
 
 ---
 ### :hammer_and_wrench: Languages and Tools :

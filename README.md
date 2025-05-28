@@ -10,18 +10,11 @@
   <a href="https://www.linkedin.com/in/msamishakoor/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/qalandar_sami/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://web.facebook.com/sami.shakoor.5">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://www.samishakoor.me/">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Portfolio Website"/>
   </a>
 </div>
 </p>
-
-<div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=samishakoor&style=flat-square&color=blue" alt=""/>
-</div>
 
 ---
 ### :man_technologist: About Me :

@@ -26,7 +26,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am a Software Engineer with an innate love of writing code. I am also an entrepreneur, logic builder, and self motivated individual with a clear vision to make my world better place in the universe of Information Technology. I work hard towards achieving my goals and also love being part of the community. I am always looking to work in a dynamic and professional environment so that I can develop the potential to enhance my skills in IT world. I am a hard-working and self-driven individual who isn’t afraid to face a challenge and i am always ready to learn new languages to broaden my skillset.
+Hi there! I’m Sami Shakoor, a solution-oriented software engineer with a strong passion for building scalable, high-performance applications. My goal is to design solutions that address real-world real-world problems while keeping code maintainable and scalable. With over 1+ years of experience in backend development, I deliver scalable APIs and cloud infrastructures designed to evolve with businesses. I believe in the power of collaboration and am always eager to work alongside talented teams to turn innovative ideas into reality. I'm always passionate about changing the world with technology, solve complex challenges, and stay ahead of the curve with emerging technologies.
 
 <p>
 I am passionate about my work and I know how to get the job done in an effective manner. During my university tenure , I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  

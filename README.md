@@ -2,7 +2,7 @@
  Hi there 👋, I'm Muhammad Sami Shakoor 
 </h1>
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47f27jaar4y2e60h1tkmta5hx7inofzjzkmkss40xi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" height="100"/>
+<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47f27jaar4y2e60h1tkmta5hx7inofzjzkmkss40xi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 <p>

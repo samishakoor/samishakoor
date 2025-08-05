@@ -62,5 +62,3 @@ I am passionate about my work and I know how to get the job done in an effective
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>
 
 </div>
-
----

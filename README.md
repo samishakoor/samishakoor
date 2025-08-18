@@ -34,25 +34,25 @@ I am passionate about my work and I know how to get the job done in an effective
 - State Management: Redux, Redux Toolkit, Zustand
 
 ⚙️ Backend That Works Hard
-• Robust APIs with Node.js, Express.js, NestJS, Flask and FastAPI
-• API Architecture: REST APIs, GraphQL
-• Real-Time Communication with WebSockets, Socket.IO
-• Databases: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Pinecone, ChromaDB
-• ORMs: Mongoose, Sequelize, TypeORM, SQLAlchemy
-• Backend as a Service (BaaS): Firebase, Supabase
+- Robust APIs with Node.js, Express.js, NestJS, Flask and FastAPI
+- API Architecture: REST APIs, GraphQL
+- Real-Time Communication with WebSockets, Socket.IO
+- Databases: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Pinecone, ChromaDB
+- ORMs: Mongoose, Sequelize, TypeORM, SQLAlchemy
+- Backend as a Service (BaaS): Firebase, Supabase
 
 🤖 AI-Powered Solutions
-• Custom AI Agents for intelligent automation using LangGraph, OpenAI Agents SDK
-• LLM-powered applications leveraging GPT, Claude, Gemini, and multi-model orchestration
-• Multi-agent systems for complex business process automation
-• RAG-based smart chatbots for customer support, lead generation, and user engagement
-• Custom AI integrations for competitive advantage
+- Custom AI Agents for intelligent automation using LangGraph, OpenAI Agents SDK
+- LLM-powered applications leveraging GPT, Claude, Gemini, and multi-model orchestration
+- Multi-agent systems for complex business process automation
+- RAG-based smart chatbots for customer support, lead generation, and user engagement
+- Custom AI integrations for competitive advantage
 
 ☁️ Cloud & DevOps
-• AWS Services: Lambda, API Gateway, AppSync, Cognito, S3, CloudWatch, CloudFormation, SQS, SNS
-• Google Cloud Platform (GCP) for powering scalable and reliable infrastructure
-• Docker containerization for consistent deployment across environments
-• CI/CD pipelines using GitHub Actions
+- AWS Services: Lambda, API Gateway, AppSync, Cognito, S3, CloudWatch, CloudFormation, SQS, SNS
+- Google Cloud Platform (GCP) for powering scalable and reliable infrastructure
+- Docker containerization for consistent deployment across environments
+- CI/CD pipelines using GitHub Actions
 
 🚀 Deployment & Version Control
 • Deployments on Heroku, Vercel, Render, AWS EC2 with automated monitoring and scaling

@@ -20,7 +20,8 @@
 ---
 ### :man_technologist: About Me :
 
-I am a solution-oriented software engineer with a strong passion for building scalable, high-performance applications. My goal is to design solutions that address real-world real-world problems while keeping code maintainable and scalable. With over 1+ years of experience in full-stack development, I deliver scalable APIs and cloud infrastructures designed to evolve with businesses. I believe in the power of collaboration and am always eager to work alongside talented teams to turn innovative ideas into reality. I'm always passionate about changing the world with technology, solve complex challenges, and stay ahead of the curve with emerging technologies.
+I am a solution-oriented software engineer with a strong passion for building scalable, high-performance applications. With over 3 years of hands-on experience, I specialize in developing robust APIs, intuitive user interfaces, and AI-powered applications that drive measurable business growth and solve complex challenges. I’m not just a developer, but someone who takes ownership of your goals and turns them into digital reality. I focus on writing clean, maintainable, and scalable code. My approach is rooted in understanding client needs, delivering on time, and adapting quickly to new challenges and technologies. If you're looking for someone who brings together front-end precision, robust back-end development, and AI integration expertise, I’m here to help.
+
 
 <p>
 I am passionate about my work and I know how to get the job done in an effective manner. I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  

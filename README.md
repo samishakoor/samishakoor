@@ -28,10 +28,10 @@ I am passionate about my work and I know how to get the job done in an effective
 </p>
 
 🎨 Frontend Excellence
-• Responsive, modern UI/UX with clean design principles
-• Frameworks: React.js, Next.js
-• Styling: Tailwind CSS, Material UI, Shadcn
-• State Management: Redux, Redux Toolkit, Zustand
+- Responsive, modern UI/UX with clean design principles
+- Frameworks: React.js, Next.js
+- Styling: Tailwind CSS, Material UI, Shadcn
+- State Management: Redux, Redux Toolkit, Zustand
 
 ⚙️ Backend That Works Hard
 • Robust APIs with Node.js, Express.js, NestJS, Flask and FastAPI

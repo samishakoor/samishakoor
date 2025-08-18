@@ -24,7 +24,7 @@ I am a solution-oriented software engineer with a strong passion for building sc
 
 
 <p>
-I have learnt many skills that are market and industry competitive. Some of my skills are mentioned below:  
+I have learnt many skills that are market competitive. Some of my skills are mentioned below:  
 </p>
 
 🎨 Frontend Excellence:
